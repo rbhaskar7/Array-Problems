@@ -1,2 +1,3 @@
 # Array-Problems
-Solve the array problems
+
+Given problems on topic array in DSA, most optimized code is expexted to be contributed
